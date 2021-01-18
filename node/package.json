@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "myserve": "json-server --c json_sever_config.json db.json --port 3004"
+    }
+}
